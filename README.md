@@ -70,7 +70,7 @@ This project is open source. See the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-- [Ahmed Hussain](https://github.com/AhmedHussainCodes)
+- [Muhammad Ali](https://github.com/RoaraxAli)
 
 ---
 
